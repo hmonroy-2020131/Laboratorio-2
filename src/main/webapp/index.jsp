@@ -39,7 +39,7 @@
                                 <a class="nav-link" href="./formulario-productos/formulario-productos.jsp">Productos</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="listar-productos/listar-productos.jsp">Listar los Productos</a>
+                                <a class="nav-link" href="./producto-servlet">Listar los Productos</a>
                            
                         </ul>
                     </div>
